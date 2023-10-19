@@ -1,2 +1,5 @@
 # resume
-Github repo for most up to date resume and archives
+Saw a tiktok from @justinleegarrison 
+https://vm.tiktok.com/ZT8hnPpwv/ 
+
+Using his resume as a template https://justingarrison.com/resume.
